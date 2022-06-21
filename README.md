@@ -1,7 +1,5 @@
 # Three Mini Project with Typescript
 
-This boilerplate is supplementary to my book titled **Three.js and TypeScript**
-
 Uses webpack-dev-server for the development build, and NodeJS with Express for production build.
 
 ## Installing
